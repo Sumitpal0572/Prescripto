@@ -43,11 +43,11 @@ const RelatedDoctors = ({ speciality, docId }) => {
                 <p
                   className={`w-2 h-2 ${
                     item.available ? `bg-green-500` : `bg-gray-500`
-              <p className="text-gray-900 text-lg font-medium">{item.name}</p>
                   }  rounded-full`}
                 ></p>
                 <p>{item.available ? "Available" : "Not Available"}</p>
               </div>
+              <p className="text-gray-900 text-lg font-medium">{item.name}</p>
               <p className="text-gray-600 text-sm">{item.speciality}</p>
             </div>
           </div>
