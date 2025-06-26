@@ -4,15 +4,25 @@
 
 Prescripto is a full-stack web application that allows users to book online doctor appointments in real-time. Users can sign up, log in, select a doctor, and schedule appointments. Additionally, doctors and administrators have dedicated dashboards to manage bookings and availability.
 
+## Deployment Link
+
+#### Frontend Deployment Link
+
+[Watch Frontend Live](https://prescripto-alpha-smoky.vercel.app/)
+
+### Backend Deployment Link
+
+(https://prescripto-backend-v265.onrender.com)
+
 ## Repository Structure
 
 This project is divided into three separate repositories:
 
 1. **Frontend (Client)** - This repository contains the user interface built with React and Vite.
 2. **Backend (API Server)** - The backend is developed using Node.js, Express, and MongoDB.  
-   👉 [Visit Backend Repository](https://github.com/mishrabhi/backend-prescripto)
+   👉 [Visit Backend Repository](https://github.com/Sumitpal0572/prescripto-backend)
 3. **Admin Panel** - The admin dashboard for managing doctors and appointments.  
-   👉 [Visit Admin Panel Repository](https://github.com/mishrabhi/admin-prescripto)
+   👉 [Visit Admin Panel Repository](https://github.com/Sumitpal0572/Prescripto_admin)
 
 ## Tech Stack
 
@@ -53,7 +63,7 @@ This project is divided into three separate repositories:
 1. **Clone the Repository**
 
 ```
-git clone https://github.com/mishrabhi/Prescripto.git
+git clone https://github.com/Sumitpal0572/Prescripto.git
 cd frontend
 ```
 
@@ -80,7 +90,7 @@ npm run dev
 1. **Clone the Repository**
 
 ```
-git clone https://github.com/mishrabhi/backend-prescripto.git
+git clone https://github.com/Sumitpal0572/backend-prescripto.git
 cd backend
 ```
 
@@ -110,7 +120,7 @@ node server.js
 1. **Clone the repository**
 
 ```
-git clone https://github.com/mishrabhi/admin-prescripto.git
+git clone https://github.com/Sumitpal0572/admin-prescripto.git
 cd admin
 ```
 
